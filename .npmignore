@@ -1,0 +1,15 @@
+src/
+
+node_modules/
+
+.eslintrc.js
+.prettierrc
+jest.config.js
+tsconfig.json
+tsup.config.js
+
+coverage/
+*.test.js
+*.test.ts
+*.test.tsx
+
